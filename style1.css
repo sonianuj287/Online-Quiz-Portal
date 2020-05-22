@@ -1,0 +1,79 @@
+#signup
+{
+	margin-right: 150px;
+	float: right;
+	background: #f2f2f2;
+	display: inline-block;
+	width: 350px;
+	padding-left: 20px;
+	padding-right: 50px;
+	height: 500px;
+	border-radius: 6px;
+	padding: 20px;
+	opacity: 0.8;
+}
+
+#submit
+{
+	background: green;
+	border-radius: 5px;
+	color: white;
+	border:none;
+	width: 100px;
+	height: 25px;
+}
+
+#reset
+{
+	background: red;
+	border-radius: 5px;
+	color: white;
+	border:none;
+	width: 100px;
+	height: 25px;
+}
+
+#signup:hover
+{
+	opacity: 1.0;
+}
+#lgn
+{
+	background: blue;
+	border-radius: 5px;
+	color: white;
+	border:none;
+	width: 100px;
+	height: 25px;
+}
+
+#login
+{
+	text-align: right;
+	color: white;
+	background-color: #07134f;
+	border-radius: 5px;
+	height: 40px;
+	padding-top: 14px;
+	padding-right: 5%;
+}
+#texts
+{
+	text-align: center;
+	margin-left: 15%;
+	margin-bottom: 30%;
+	width: 30%;
+	height: 30%;
+	color: #07134f;
+	font-size: 30px;
+}
+#le,#lp,#lgn
+{
+	border-radius: 5px;
+}
+body
+{
+	background:url(edu.jpeg);
+	background-size: cover;
+	font-family: sans-serif;
+}

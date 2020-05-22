@@ -1,0 +1,75 @@
+body
+{
+	background:url(edu.jpeg);
+	background-size: cover;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#grade10
+{
+	margin-left: 30px;
+	width: 10%;
+}
+
+#grade12
+{
+	margin-left: 30px;
+	width: 10%;
+
+}
+
+#gradecol
+{
+	margin-left: 30px;
+	width: 10%;	
+}
+.board
+{
+	width: 50%;
+	padding: 5px 5px;
+	margin-left: 65px;
+}
+.colname
+{
+	width: 50%;
+	padding: 5px 5px;
+	margin-left: 35px;
+}
+.scheme
+{
+	width: 20%;
+	padding: 5px 5px;
+	margin-left: 10px;
+
+}
+
+#state
+{
+	margin-left: 128px;
+	width: 30%;
+	padding: 5px 5px;
+}
+p
+{
+	font-size: 20px;
+	text-align: center;
+	color:coral;
+}
+
+#education
+{
+	text-align: left;
+	background: #f2f2f2;
+	display: inline-block;
+	border-radius: 6px;
+	padding: 10px;
+	opacity: 0.8;
+	width: 700px;
+
+}
+
+#education:hover
+{
+	opacity: 1.0;
+}
